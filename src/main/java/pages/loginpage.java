@@ -48,6 +48,11 @@ package pages;
 			Continuebutton.click();
 		}
 
+		
+		public void closebrower(WebDriver driver) {
+			driver.quit();
+		
+		}
 	}
 
 
