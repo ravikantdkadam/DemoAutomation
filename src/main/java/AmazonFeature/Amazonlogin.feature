@@ -10,6 +10,7 @@ And User clicks on Continue button
 Then User enter the "<password>"
 And User click on signin Button 
 
+// Examples keyword used with Scenario outline 
  Examples:
 
     |username | password |    
